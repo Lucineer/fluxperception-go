@@ -1,0 +1,11 @@
+*.exe
+*.out
+bin/
+*.swp
+*.profraw
+
+.DS_Store
+*.swp
+*.profraw
+.env
+
