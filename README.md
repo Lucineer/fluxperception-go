@@ -1,5 +1,16 @@
 # fluxperception-go
-Go sensor fusion: confidence-weighted blending, bias, variance, Newton sqrt
+
+Go implementation of the sensor fusion and perception layer for autonomous agents.
+
+See [flux-perception](https://github.com/Lucineer/flux-perception) for the canonical Rust implementation.
+
+## Quick Start
+
+```bash
+git clone https://github.com/Lucineer/fluxperception-go.git
+cd fluxperception-go
+go test ./...
+```
 
 ---
 
